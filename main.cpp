@@ -3,8 +3,10 @@ using namespace std;
 
 int main() 
 {
-	//kurwa
+ int borys;
+	
 	cout << "Hello world" << endl;
+	cin >> borys;
 	
 	return 0;
 }
